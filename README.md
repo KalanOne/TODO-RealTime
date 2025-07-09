@@ -2,6 +2,13 @@
 
 > ![Demo Screenshot](./ScreenShots/Screen1.png)
 
+<div align="center">
+  <img src="https://img.shields.io/github/last-commit/KalanOne/TODO-RealTime?color=4ade80&label=Last%20Commit&style=flat-square" alt="Last Commit" style="border-radius:5px" />
+  <img src="https://img.shields.io/github/stars/KalanOne/TODO-RealTime?style=flat-square&color=facc15" alt="Stars" style="border-radius:5px" />
+  <img src="https://img.shields.io/github/issues/KalanOne/TODO-RealTime?style=flat-square&color=ef4444" alt="Issues" style="border-radius:5px" />
+  <img src="https://img.shields.io/github/license/KalanOne/TODO-RealTime?style=flat-square&color=6366f1" alt="License" style="border-radius:5px" />
+</div>
+
 A **collaborative, full-stack TODO application** with real-time updates built using:
 
 - 🧠 **NestJS** (modular architecture with WebSocket + PostgreSQL + Redis)
