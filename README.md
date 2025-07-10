@@ -50,8 +50,8 @@ A **collaborative, full-stack TODO application** with real-time updates built us
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-user/real-time-todo.git
-cd real-time-todo
+git clone https://github.com/KalanOne/TODO-RealTime.git
+cd TODO-RealTime
 ```
 
 ### 2. Start backend (NestJS + Redis + Postgres)
